@@ -1,2 +1,2 @@
 # firstproject
-This is a firt demo prject for Gir run
+This is a firt demo prject for Git run
