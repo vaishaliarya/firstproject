@@ -1,2 +1,2 @@
 # firstproject
-This is a firt demo prject for Git run
+This is a first demo prject for Git run
