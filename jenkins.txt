@@ -1,0 +1,38 @@
+1. goto jenkins.io
+
+http://www.jenkins.io/download/thank-you-downloading-windows-installer-stable/
+Download the windows version --from LTS
+
+Run & install Jenkins and make the following changes:
+
+2. Run service as local system
+3. change port to 8071 : no conflict between spring and jenkins
+4.localhost:8071--this ask you to unlock jenkins
+
+allow the following certificates
+ 
+01 01 EUatgbTUxtJNkeMFNRdaKB8BakjTtSS2Ys5tvqjAI1AXsA?e=DEiPvh
+01 02 EUnBTDkyuoJHuu_HBb3iJd4BCoisUu41kAmuvQ7SL2TnQQ?e=Ibn2ev
+01 03 ETNg6ClGbhNGguH-6zq5aZsB6XXFRz9lvpITErAvHhB9NQ?e=kvzs3P
+04 01 EcxIAWesyxRHkV4V4f0skoABvYFaBkyHY9wo_fwL-gooHA?e=nZTAlJ
+04 02 EW1GiTEhtfJAumb4DT8Y7jYBchd4MMa3p2THjrfPheW9ZA?e=DelEQk
+05 01 ESFKVvv6L5ZFjwZjY-EFVj8BTzT20L0sOuV2OTvscsAgkg?e=eigso1
+05 02 EUva5L5wiN9JoX1T2xJyU6kBGO8bfp32LJU3IAdj5_tjJA?e=eS1wce
+07 01 EYMnl5KV3JVHl_Buy5_SMeABAiggbDpz845TTMEiJigwZw?e=6vpxve
+07 02 Ec9eS6NgdDFFr13E-BNRF98B29V1LtMPDmUdCqSKhm9aLQ?e=zI1yBH
+08 01 EbXVRrT8xyRNvzyBYDILzmgBDhLAp6cBHM6gZ6x-lSwi_A?e=otaaPZ
+08 02 EUhyINkZPHJCnaK03Giu5RUBLdLkGB5tx16xYXnkQri9ag?e=G4wq6J
+11 01 EemGi2yJ17BDnaNlVealGfoBGLLzlnaH0Hu3MMAY0Jr7SQ?e=UOMi7H
+11 02 ETx270QFXJNCr5PFycSko18BmUBsLf7zidW_putU6BvU7w?e=8DQ46i
+13 01 EVjAfYwng4pHvjAalSrmDOMBx6ps7BmRQ6pchUV_QHC4bA?e=IRVSJF
+13 02 EeKeKxmwgK9AjM0hH2ysyOEBqdGOfF-iuT-7MZWk3H730g?e=dkBcpE
+14 01 EaomuxHjSpVIvspfz1YtkPwBVRL4ZMG36XJ7Z36muaPFEg?e=4bSch5
+14 02 ETY1Wppn-k9AsBZvWXRdEAABvrr_XssKigtAV0f5-_QAow?e=kUZe3m
+14 03 EeRFrKkoEfRKhqt1u9XNFgkBzF4r-j8W-sgIGlb14ug4RQ?e=ybk3c9
+15 01 Ea9Pdv7eP7lCvgGlV1jV-IYBunHwTFhIMvPHFWIBjJoDdw?e=IftLkP
+15 02 EUkShs4qz4NGrqq9-0Z7qN0BtkWaHB3YSFzckr8slbFcdw?e=z6MYS0
+15 03 EanT-VHqZcpNl8U_dpvr-C4BTFtqKSBxSo_VKr2HVRar4Q?e=FldeDK
+18 01 EQE0Zkl8z9ROoadfJNAL64sBkyQlMaBU_5sUq48MDw_oiQ?e=LTXpq4
+18 02 Ee_5ls6elRVHkr-crK4NDucBkoEJV4Ya8RvuDBMHCWXkWg?e=CC05jC
+19 01 ET7ss0Rp7kBBsl7qaapvLzMBwnrx1ZP_tL9QBv_XZrTLag?e=gubDuK
+19 02 EZbHtDVVoS1Mv6HbKtWdRPIBeXYOH80Ggth9a3-RY6ptLA?e=Yq8csZ
