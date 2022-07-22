@@ -10,6 +10,8 @@ Run & install Jenkins and make the following changes:
 4.localhost:8071--this ask you to unlock jenkins
 
 allow the following certificates
+
+/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fjagatheesan_r_iiht_com%2FDocuments%2FDelivery%2FFY%20-%2022-23%2FQ1%2FJune%2FEY%2FJava%2FStudy%20Material%2FTraining%20Material%2FTraining%20Material
  
 01 01 EUatgbTUxtJNkeMFNRdaKB8BakjTtSS2Ys5tvqjAI1AXsA?e=DEiPvh
 01 02 EUnBTDkyuoJHuu_HBb3iJd4BCoisUu41kAmuvQ7SL2TnQQ?e=Ibn2ev
